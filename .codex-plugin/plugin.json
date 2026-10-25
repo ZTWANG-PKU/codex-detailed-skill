@@ -1,0 +1,20 @@
+{
+  "name": "detailed-paper-reader",
+  "version": "1.0.0",
+  "description": "A source-gated, figure-by-figure deep-reading workflow for scientific papers, supplementary materials, data, and official code repositories.",
+  "author": {
+    "name": "ZTWANG-PKU",
+    "url": "https://github.com/ZTWANG-PKU"
+  },
+  "homepage": "https://github.com/ZTWANG-PKU/codex-detailed-skill",
+  "repository": "https://github.com/ZTWANG-PKU/codex-detailed-skill",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "agent-skill",
+    "scientific-paper",
+    "literature-review",
+    "figure-analysis"
+  ],
+  "skills": "./skills/"
+}
